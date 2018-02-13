@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{6C033ADE-B553-48AD-8ACB-8EC171E3CED8}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WillDo/Views/ItemDetailPage.xaml">
+    <Files>
+      <File FileName="WillDo.Repository/Constants.cs" Line="6" Column="6" />
+      <File FileName="WillDo/Services/MockDataStore.cs" Line="52" Column="10" />
+      <File FileName="WillDo/Services/LocalDataStore.cs" Line="4" Column="25" />
+      <File FileName="WillDo.Repository/Models/Goal.cs" Line="28" Column="17" />
+      <File FileName="../:Users:will:Library:Mobile Documents:com~apple~CloudDocs:Apps:WillDo:WillDo.Repository:Repositories:GoalRepository.cs" Line="42" Column="24" />
+      <File FileName="WillDo.Repository/Repositories/IRepository.cs" Line="15" Column="33" />
+      <File FileName="WillDo/Services/IDataStore.cs" Line="9" Column="44" />
+      <File FileName="WillDo.Repository/FodyWeavers.xml" Line="5" Column="11" />
+      <File FileName="WillDo/ViewModels/GoalsViewModel.cs" Line="49" Column="14" />
+      <File FileName="WillDo/ViewModels/ItemsViewModel.cs" Line="35" Column="24" />
+      <File FileName="WillDo/Views/ItemsPage.xaml.cs" Line="19" Column="49" />
+      <File FileName="WillDo/ViewModels/BaseViewModel.cs" Line="16" Column="27" />
+      <File FileName="WillDo/Services/RealmDataStore.cs" Line="51" Column="9" />
+      <File FileName="WillDo/ViewModels/AboutViewModel.cs" Line="1" Column="1" />
+      <File FileName="WillDo/App.xaml.cs" Line="14" Column="35" />
+      <File FileName="WillDo/ViewModels/ItemDetailViewModel.cs" Line="12" Column="10" />
+      <File FileName="WillDo/ViewModels/GoalDetailViewModel.cs" Line="11" Column="33" />
+      <File FileName="WillDo/Views/ItemDetailPage.xaml.cs" Line="20" Column="60" />
+      <File FileName="WillDo/Views/NewItemPage.xaml.cs" Line="13" Column="35" />
+      <File FileName="WillDo/Views/ItemsPage.xaml" Line="8" Column="64" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="WillDo/Views/ItemDetailPage.xaml" Line="6" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.WillDo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FD4A6838-BA8D-41E0-AA61-17B1D9A6948A">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.WillDo.iOS>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/will/Library/Mobile Documents/com~apple~CloudDocs/Apps/WillDo/WillDo/ViewModels/GoalsViewModel.cs" relfile="WillDo/ViewModels/GoalsViewModel.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

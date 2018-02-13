@@ -1,0 +1,9 @@
+/Users/will/Library/Mobile Documents/com~apple~CloudDocs/Apps/WillDo/WillDo.Repository/obj/Debug/netstandard2.0/WillDo.Repository.csprojResolveAssemblyReference.cache
+/Users/will/Library/Mobile Documents/com~apple~CloudDocs/Apps/WillDo/WillDo.Repository/obj/Debug/netstandard2.0/WillDo.Repository.csproj.CoreCompileInputs.cache
+/Users/will/Library/Mobile Documents/com~apple~CloudDocs/Apps/WillDo/WillDo.Repository/obj/Debug/netstandard2.0/WillDo.Repository.AssemblyInfoInputs.cache
+/Users/will/Library/Mobile Documents/com~apple~CloudDocs/Apps/WillDo/WillDo.Repository/obj/Debug/netstandard2.0/WillDo.Repository.AssemblyInfo.cs
+/Users/will/Library/Mobile Documents/com~apple~CloudDocs/Apps/WillDo/WillDo.Repository/obj/Debug/netstandard2.0/WillDo.Repository.dll
+/Users/will/Library/Mobile Documents/com~apple~CloudDocs/Apps/WillDo/WillDo.Repository/obj/Debug/netstandard2.0/WillDo.Repository.pdb
+/Users/will/Library/Mobile Documents/com~apple~CloudDocs/Apps/WillDo/WillDo.Repository/bin/Debug/netstandard2.0/WillDo.Repository.deps.json
+/Users/will/Library/Mobile Documents/com~apple~CloudDocs/Apps/WillDo/WillDo.Repository/bin/Debug/netstandard2.0/WillDo.Repository.dll
+/Users/will/Library/Mobile Documents/com~apple~CloudDocs/Apps/WillDo/WillDo.Repository/bin/Debug/netstandard2.0/WillDo.Repository.pdb
